@@ -1,5 +1,8 @@
 {
   "2.1.0": {
-    "test"
+    "changelog": "-----------------------------------\r\n\u00264Press N to open notes and see\r\n\u00264important hotkeys!\r\n\r\nUpdate 2.1.0\r\n-menu fix\r\n-Essential back\r\n-Inveotry HUD back\r\n-better default HUD\r\n\u00264update to 2.0 then update\r\ntoo 2.1.0 for best experience\r\n\r\n\u00264Update 2.0!!!\r\n-huge proformence improvements\r\n-shaders included in download\r\n-way better HUD custimization\r\n-inhanced main menu\r\n-way more inventory buttons!!!\r\n\r\nUpdate 1.6.3\r\n-bee head lag hotfix\r\n\r\nUpdate 1.6.2\r\n-chest bug fixes higher fps and \r\n no invisable chests\r\n-2.0 update will come eventually \r\n with huge update\r\n\r\nUpdate 1.6.1\r\n-added shop and coinflip\r\n inventory buttons (art by\r\nJBSquiddy)\r\n\r\nUpdate 1.6.0\r\n-removed emojis :(\r\n (blame poccito and JB)\r\n\r\nUpdate 1.5.0\r\n-changed changelog to be less\r\n ugly\r\n-sound plays when durability is\r\n low on armors or weapon\r\n (hopefully)\r\n\r\nUpdate 1.4.4 \r\n-New inventory buttons art by\r\n JBsquiddy, buttons for spawn\r\n and warp menu\r\n\r\n-Fly Fix\r\n will no longer be taken out \r\n of fly by landing on blocks\r\n\r\nUpdate 1.4.3\r\n-no sound when i speak now\r\n\r\nUpdate 1.4.2\r\n-bug fix sorry \u003c3\r\n\r\nUpdate 1.4.1\r\n-Fix scoreboard oops\r\n\r\nUpdate 1.4.0\r\n-Better Hitbox Look\r\n-Rainbow fish line\r\n-Automatic update log\r\n-Username sound when said in \r\n chat "
+  },
+  "2.1.1": {
+    "changelog": "this is a test changelog"
   }
 }
